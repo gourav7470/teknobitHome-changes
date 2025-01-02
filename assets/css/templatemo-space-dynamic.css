@@ -196,6 +196,18 @@ body {
   color: #fe3f40;
 }
 
+
+.section-heading-1 h2 span {
+  color: #fe3f40;
+  font-weight: 900;
+  font-size: 40px;
+}
+.section-heading-1 h2  {
+  color: #03a4ed;
+  font-weight: 900;
+  font-size: 40px;
+}
+
 .main-blue-button a {
   display: inline-block;
   background-color: #03a4ed;
@@ -871,6 +883,15 @@ Banner Style
   font-size: 18px;
   color: #fe3f40;
   margin-bottom: 15px;
+}
+
+.welcome {
+  text-transform: uppercase;
+  font-size: 18px;
+  color: #fe3f40;
+  font-weight: 700;
+  /* margin-bottom: 25px; */
+  margin-top: 0px
 }
 
 .main-banner .left-content h2 {
